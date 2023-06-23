@@ -4,8 +4,8 @@ This project demonstrates a simple question classifier using Natural Language Pr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/nlp-question-classifier.git`
-2. Navigate to the project directory: `cd nlp-question-classifier`
+1. Clone the repository: `git clone https://github.com/Tanzir11/Chat_Bot.git`
+2. Navigate to the project directory: `cd Chat_Bot`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
