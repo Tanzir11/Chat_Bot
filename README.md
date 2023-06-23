@@ -13,7 +13,7 @@ This project demonstrates a simple question classifier using Natural Language Pr
 1. Prepare the dataset:
    - Create an Excel file named `output.xlsx` containing the questions and their subtopics.
    - Ensure that the questions are stored in the "Question" column and the corresponding subtopics are in the "Subtopic" column.
-2. Run the script: `python question_classifier.py`
+2. Run the script: `nltk_word_tokenizer.py`
 3. Interact with the bot:
    - Enter your questions when prompted by the "User: " input.
    - The bot will classify the questions into subtopics and provide a confidence score for the prediction.
